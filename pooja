@@ -1,1 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+</head>
+<body>
+    <form>
+        <h1>Registration Form</h1>
+        <br>
+        <h4><p>Enter Username</p></h4>
+        <input type="text" placeholder="Username">
+        <br>
+        <h4><p>Enter Password</p></h4>
+        <input type="password" placeholder="Password">
+        <br>
+        <br>
+        <input type="submit" placeholder="Submit">
 
+    </form>
+    </body>
+</html>
